@@ -16,4 +16,4 @@
 
 **Terminal**:
 
->>Navegar ate a pasta da solution e executar o comando dotnet run.
+>>Navegar ate a pasta do projeto CopaDosFilmes.Web e executar o comando dotnet run.
