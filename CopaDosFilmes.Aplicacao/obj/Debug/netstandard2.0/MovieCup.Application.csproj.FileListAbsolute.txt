@@ -1,0 +1,9 @@
+C:\Users\unous\Google Drive\Lambda3\moviecup.Application\bin\Debug\netstandard2.0\MovieCup.Application.deps.json
+C:\Users\unous\Google Drive\Lambda3\moviecup.Application\bin\Debug\netstandard2.0\MovieCup.Application.dll
+C:\Users\unous\Google Drive\Lambda3\moviecup.Application\bin\Debug\netstandard2.0\MovieCup.Application.pdb
+C:\Users\unous\Google Drive\Lambda3\moviecup.Application\obj\Debug\netstandard2.0\MovieCup.Application.csprojAssemblyReference.cache
+C:\Users\unous\Google Drive\Lambda3\moviecup.Application\obj\Debug\netstandard2.0\MovieCup.Application.csproj.CoreCompileInputs.cache
+C:\Users\unous\Google Drive\Lambda3\moviecup.Application\obj\Debug\netstandard2.0\MovieCup.Application.AssemblyInfoInputs.cache
+C:\Users\unous\Google Drive\Lambda3\moviecup.Application\obj\Debug\netstandard2.0\MovieCup.Application.AssemblyInfo.cs
+C:\Users\unous\Google Drive\Lambda3\moviecup.Application\obj\Debug\netstandard2.0\MovieCup.Application.dll
+C:\Users\unous\Google Drive\Lambda3\moviecup.Application\obj\Debug\netstandard2.0\MovieCup.Application.pdb

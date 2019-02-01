@@ -1,0 +1,9 @@
+C:\Users\unous\Google Drive\Lambda3\CopaDosFilmes.Servico\bin\Debug\netstandard2.0\CopaDosFilmes.Servico.deps.json
+C:\Users\unous\Google Drive\Lambda3\CopaDosFilmes.Servico\bin\Debug\netstandard2.0\CopaDosFilmes.Servico.dll
+C:\Users\unous\Google Drive\Lambda3\CopaDosFilmes.Servico\bin\Debug\netstandard2.0\CopaDosFilmes.Servico.pdb
+C:\Users\unous\Google Drive\Lambda3\CopaDosFilmes.Servico\obj\Debug\netstandard2.0\CopaDosFilmes.Servico.csprojAssemblyReference.cache
+C:\Users\unous\Google Drive\Lambda3\CopaDosFilmes.Servico\obj\Debug\netstandard2.0\CopaDosFilmes.Servico.csproj.CoreCompileInputs.cache
+C:\Users\unous\Google Drive\Lambda3\CopaDosFilmes.Servico\obj\Debug\netstandard2.0\CopaDosFilmes.Servico.AssemblyInfoInputs.cache
+C:\Users\unous\Google Drive\Lambda3\CopaDosFilmes.Servico\obj\Debug\netstandard2.0\CopaDosFilmes.Servico.AssemblyInfo.cs
+C:\Users\unous\Google Drive\Lambda3\CopaDosFilmes.Servico\obj\Debug\netstandard2.0\CopaDosFilmes.Servico.dll
+C:\Users\unous\Google Drive\Lambda3\CopaDosFilmes.Servico\obj\Debug\netstandard2.0\CopaDosFilmes.Servico.pdb

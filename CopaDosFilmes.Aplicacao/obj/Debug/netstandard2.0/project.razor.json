@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\unous\\Google Drive\\Lambda3\\CopaDosFilmes.Aplicacao\\CopaDosFilmes.Aplicacao.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

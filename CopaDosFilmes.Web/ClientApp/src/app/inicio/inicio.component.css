@@ -1,0 +1,47 @@
+
+body{
+    font-size: 20px;
+    }
+    
+    .cabecalho, .conteudo {
+        color: #f1f1f1;
+        text-align: center;
+        padding: 2em;
+        background-color: rgb(104, 98, 99);
+        margin: 2em;
+    }
+    
+    .lista{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    }
+    
+    .filme{
+    display: flex;
+    flex-basis: 25%;
+    align-self: center;
+    justify-content: center;
+    }
+    
+    .filme-nome{
+    background-color: #f1f1f1;
+    box-shadow: 1px 1px 1px 1px #3333334d;
+    margin: 10px;
+    padding: 1em;
+    color: #333333;
+    width: 100%;
+    }
+    
+    .centro{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 2em;
+    }
+    
+   
+    .caixa{
+    width: 100%;
+    }

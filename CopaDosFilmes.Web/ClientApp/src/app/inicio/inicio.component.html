@@ -1,0 +1,22 @@
+
+<div class="caixa">
+<div class="cabecalho">
+  <h5>CAMPEONATO DE FILMES</h5>
+  <h1>Fase de Seleção</h1>
+  <h4>__</h4>
+  <h5>Selecione 8 filmes que você deseja que entrem na competição e depois pressione o botão Gerar Meu Campeonato para prosseguir.</h5>
+</div>
+<div class="centro">
+  <h4>Selecionados {{qtdSelecicted}} de 8 filmes</h4>
+  <button type="button" [disabled]="!selectable" (click)="gerarMeuCampeonato()">GERAR MEU CAMPEONATO</button>
+</div>
+<div class="conteudo">
+  <ul class="lista">
+      <li class="filme" *ngFor="let filme of filmes">
+          <span class="filme-nome">
+        <input type="checkbox" [(ngModel)]="filme.selecionado" (change)="select()" [disabled]="selectable && !filme.selecionado"> 
+        {{filme.titulo}} <br/> {{filme.ano}}</span>
+      </li>
+  </ul>
+</div>
+</div>
