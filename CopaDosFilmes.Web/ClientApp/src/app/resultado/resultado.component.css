@@ -47,3 +47,11 @@
 .caixa {
   width: 100%;
 }
+
+
+.centro {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 2em;
+}
